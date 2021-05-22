@@ -1,0 +1,9 @@
+{
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "semi": "error",
+    "no-unused-vars": "warn",
+    "arrow-body-style": "warn"
+  }
+}
